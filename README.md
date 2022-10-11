@@ -1,4 +1,4 @@
-- www.aityp.com
+- blog: https://www.aityp.com
 
 <!---
 typ431127/typ431127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
