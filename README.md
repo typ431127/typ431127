@@ -1,7 +1,7 @@
 - blog: https://www.aityp.com
 - 小运维一枚👷‍♂️
 - 模拟游戏爱好者
-- 摄影资深爱好者
+- 摄影资深爱好者📷
 - weixin: bhfdddn
 <!---
 typ431127/typ431127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
