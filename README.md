@@ -1,5 +1,5 @@
 - 博客: https://www.aityp.com
-- GO写的容器镜像同步网站 https://docker.aityp.com
+- 使用go+gin写的容器镜像同步网站 https://docker.aityp.com
 - 小运维一枚👷‍♂️
 - 模拟游戏爱好者
 - 摄影资深爱好者📷
