@@ -1,3 +1,4 @@
+本人正在求职，如果你有运维或运维开发的工作机会请联系我 [查看更多](https://docker.aityp.com/hire-me)
 #### 使用go开发的容器镜像同步网站 https://docker.aityp.com
 #### 博客: https://www.aityp.com
 #### 微信: SkyDancer_DDN
